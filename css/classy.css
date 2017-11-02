@@ -1,0 +1,12 @@
+.extreme {
+    text-shadow: 0 0 3px rgba(255, 0, 0, 0.6);
+    border: 2px solid red;
+    text-align: center; 
+    width: 250px;
+    padding: 15px 15px;
+}
+
+.navzone > ul > a {
+    color: green;
+    list-style-type: none;
+}
