@@ -10,3 +10,38 @@
     color: green;
     list-style-type: none;
 }
+
+.navzone {
+    background-color: red;
+    border-radius: 15px;
+    max-width: 50%;
+    color: white;
+    text-shadow: 0 0 4px black;
+    padding: 15px;
+}
+
+#tehlulz {
+    background-color: orchid;
+    max-width: 50px;
+    padding: 150px;
+    font-size: 500%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#head1 {
+    color: lightsteelblue;
+}
+
+.content {
+    background-color: salmon;
+    border-radius: 45px;
+    max-width: 25%;
+    padding: 15px;
+    color: white;
+    text-shadow: 0 0 2px lightsteelblue;
+}
+
+.prose {
+    color: green;
+    text-shadow: 1 1 5px yellow;
+}
